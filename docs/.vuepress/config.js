@@ -1,5 +1,5 @@
 module.exports = {
-  base: '/yfjlb/',
+  base: '/lqxfxdsxjy/',
   dest: './dist',
   title: '刘擎西方现代思想讲义',
   description: '刘擎西方现代思想讲义，刘擎，现代思想',
